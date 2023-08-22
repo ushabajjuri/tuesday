@@ -7,4 +7,8 @@ public class testcase {
 	    c=a+b;
 	    System.out.println("value of c:"+c);
 	}
+	public static void fun()
+	{
+		System.out.println("Fun Method Created");
+	}
 }
